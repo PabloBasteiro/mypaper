@@ -9,7 +9,7 @@ theories and stuf..
 
 ## Experiments
 
-## Analysey of data
+## Analysis of data
 aodghaobpaebhpquebhpqh
 
 ## Conlusion
